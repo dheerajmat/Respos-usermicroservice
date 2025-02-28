@@ -1,0 +1,25 @@
+{"level":"info","logsDirectory":"C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs","message":"Logger initialized","service":"user-service","timestamp":"2025-02-28T05:06:59.925Z"}
+{"level":"debug","message":"Debug logging enabled","service":"user-service","timestamp":"2025-02-28T05:06:59.930Z"}
+{"level":"info","message":"Successfully connected to the database","service":"user-service","timestamp":"2025-02-28T05:07:00.470Z"}
+{"level":"info","message":"Server is running on http://localhost:5001","service":"user-service","timestamp":"2025-02-28T05:07:00.472Z"}
+{"level":"info","message":"Swagger documentation available at http://localhost:5001/api-docs","service":"user-service","timestamp":"2025-02-28T05:07:00.473Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-28T06:40:00.339Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-28T06:40:00.353Z"}
+{"level":"debug","message":"Token verified successfully","path":"/customers","service":"user-service","timestamp":"2025-02-28T06:40:04.089Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/customers","service":"user-service","timestamp":"2025-02-28T06:40:04.096Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-28T06:40:45.076Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-28T06:40:45.078Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-28T06:40:45.081Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-28T06:40:45.082Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-28T06:40:45.673Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-28T06:40:45.674Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-28T06:40:45.679Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-28T06:40:45.680Z"}
+{"level":"info","logsDirectory":"C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs","message":"Logger initialized","service":"user-service","timestamp":"2025-02-28T07:21:51.211Z"}
+{"level":"debug","message":"Debug logging enabled","service":"user-service","timestamp":"2025-02-28T07:21:51.214Z"}
+{"level":"info","message":"Successfully connected to the database","service":"user-service","timestamp":"2025-02-28T07:21:53.237Z"}
+{"level":"info","message":"Server is running on http://localhost:5001","service":"user-service","timestamp":"2025-02-28T07:21:53.241Z"}
+{"level":"info","message":"Swagger documentation available at http://localhost:5001/api-docs","service":"user-service","timestamp":"2025-02-28T07:21:53.243Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-28T07:22:02.159Z","uaid":"1","uid":"30","username":"superadmin@respos.com"}
+{"email":"superadmin@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-28T07:22:02.699Z"}
+{"level":"debug","message":"Token verified successfully","path":"/","service":"user-service","timestamp":"2025-02-28T07:22:20.930Z","uid":"30"}

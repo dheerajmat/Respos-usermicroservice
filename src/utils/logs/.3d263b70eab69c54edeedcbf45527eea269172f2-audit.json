@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs\\.3d263b70eab69c54edeedcbf45527eea269172f2-audit.json",
+    "files": [
+        {
+            "date": 1740406357941,
+            "name": "C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs\\combined-2025-02-24.log",
+            "hash": "aba506e6797ea8deac1a49a5b2e74a5b8fd198692c3f7d95a5fad8574788b8f9"
+        },
+        {
+            "date": 1740470290745,
+            "name": "C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs\\combined-2025-02-25.log",
+            "hash": "0d8e051bd2baed3838e36aea3d580184cc7d4a47e93dd3f793c266a43c3da5e2"
+        },
+        {
+            "date": 1740549313969,
+            "name": "C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs\\combined-2025-02-26.log",
+            "hash": "5297b4d81b8d5312150678e69bd16daedd7839cd590b7b026d00518cddc75b71"
+        },
+        {
+            "date": 1740633271169,
+            "name": "C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs\\combined-2025-02-27.log",
+            "hash": "e40a9b9f366801c15802b702d8164b5569d6d8787cceada43e607881833d09dd"
+        },
+        {
+            "date": 1740719219904,
+            "name": "C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs\\combined-2025-02-28.log",
+            "hash": "02ff78a259c05c86f25c4f128410867dffe9239b7d60839a771d7c1811d8380b"
+        }
+    ],
+    "hashType": "sha256"
+}

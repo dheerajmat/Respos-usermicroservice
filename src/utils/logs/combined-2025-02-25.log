@@ -1,0 +1,80 @@
+{"level":"info","logsDirectory":"C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs","message":"Logger initialized","service":"user-service","timestamp":"2025-02-25T07:58:10.768Z"}
+{"level":"debug","message":"Debug logging enabled","service":"user-service","timestamp":"2025-02-25T07:58:10.771Z"}
+{"level":"info","message":"Successfully connected to the database","service":"user-service","timestamp":"2025-02-25T07:58:11.185Z"}
+{"level":"info","message":"Server is running on http://localhost:5001","service":"user-service","timestamp":"2025-02-25T07:58:11.186Z"}
+{"level":"info","message":"Swagger documentation available at http://localhost:5001/api-docs","service":"user-service","timestamp":"2025-02-25T07:58:11.187Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-25T08:16:17.246Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-25T08:16:17.280Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:21:12.724Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:21:12.727Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:21:12.734Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:21:12.736Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:21:13.530Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:21:13.531Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:21:13.536Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:21:13.537Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:21:26.908Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:21:26.909Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:21:26.913Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:21:26.914Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:22:45.562Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:22:45.563Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:22:45.567Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:22:45.567Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:22:46.341Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:22:46.343Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T08:22:46.351Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T08:22:46.353Z"}
+{"level":"info","logsDirectory":"C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs","message":"Logger initialized","service":"user-service","timestamp":"2025-02-25T10:11:38.887Z"}
+{"level":"debug","message":"Debug logging enabled","service":"user-service","timestamp":"2025-02-25T10:11:38.890Z"}
+{"level":"info","message":"Successfully connected to the database","service":"user-service","timestamp":"2025-02-25T10:11:39.337Z"}
+{"level":"info","message":"Server is running on http://localhost:5001","service":"user-service","timestamp":"2025-02-25T10:11:39.338Z"}
+{"level":"info","message":"Swagger documentation available at http://localhost:5001/api-docs","service":"user-service","timestamp":"2025-02-25T10:11:39.339Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-25T11:19:15.628Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-25T11:19:15.652Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-25T11:22:08.755Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-25T11:22:08.758Z"}
+{"level":"debug","message":"Token verified successfully","path":"/search-customer/9586","service":"user-service","timestamp":"2025-02-25T11:22:56.084Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/search-customer/9586267988","service":"user-service","timestamp":"2025-02-25T11:22:57.128Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:23:52.223Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:23:52.226Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:23:52.230Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:23:52.231Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:23:53.996Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:23:53.998Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:23:54.012Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:23:54.014Z"}
+{"level":"debug","message":"Token verified successfully","path":"/customers","service":"user-service","timestamp":"2025-02-25T11:23:57.688Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/customers","service":"user-service","timestamp":"2025-02-25T11:23:57.692Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/customer/142","service":"user-service","timestamp":"2025-02-25T11:24:01.258Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/customer/142","service":"user-service","timestamp":"2025-02-25T11:24:01.278Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/3/profile-status","service":"user-service","timestamp":"2025-02-25T11:24:22.898Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:24:41.389Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:24:41.390Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:24:41.393Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":{"not":"3"},"roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:24:41.394Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:24:42.830Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:24:42.831Z"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:24:42.834Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:24:42.834Z"}
+{"level":"debug","message":"Token verified successfully","path":"/145/account-status","service":"user-service","timestamp":"2025-02-25T11:24:44.583Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:24:44.626Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:24:44.627Z"}
+{"level":"debug","message":"Token verified successfully","path":"/145/account-status","service":"user-service","timestamp":"2025-02-25T11:24:45.387Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/filter","service":"user-service","timestamp":"2025-02-25T11:24:45.430Z","uid":"3"}
+{"isdeleted":false,"level":"info","message":"Search conditions:","roleid":"3","roleid_orgid":"50","service":"user-service","timestamp":"2025-02-25T11:24:45.431Z"}
+{"level":"debug","message":"Token verified successfully","path":"/3/profile-status","service":"user-service","timestamp":"2025-02-25T12:43:18.590Z","uid":"3"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-25T12:59:34.895Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-25T12:59:34.903Z"}
+{"level":"info","logsDirectory":"C:\\Office\\Git_clone\\Respos_Microservice\\ResPos\\micro service Respos\\micro_service_user\\src\\utils\\logs","message":"Logger initialized","service":"user-service","timestamp":"2025-02-25T13:17:08.580Z"}
+{"level":"debug","message":"Debug logging enabled","service":"user-service","timestamp":"2025-02-25T13:17:08.584Z"}
+{"level":"info","message":"Successfully connected to the database","service":"user-service","timestamp":"2025-02-25T13:17:09.109Z"}
+{"level":"info","message":"Server is running on http://localhost:5001","service":"user-service","timestamp":"2025-02-25T13:17:09.111Z"}
+{"level":"info","message":"Swagger documentation available at http://localhost:5001/api-docs","service":"user-service","timestamp":"2025-02-25T13:17:09.112Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-25T13:17:12.076Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-25T13:17:12.087Z"}
+{"effectiveOrgId":"50","level":"info","message":"User authenticated successfully","service":"user-service","timestamp":"2025-02-25T13:22:42.398Z","uaid":"1","uid":"3","username":"outletmanager@respos.com"}
+{"email":"outletmanager@respos.com","level":"info","message":"Login successful","service":"user-service","timestamp":"2025-02-25T13:22:42.406Z"}
+{"level":"debug","message":"Token verified successfully","path":"/3/profile-status","service":"user-service","timestamp":"2025-02-25T13:27:05.497Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/3/profile-status","service":"user-service","timestamp":"2025-02-25T13:34:43.614Z","uid":"3"}
+{"level":"debug","message":"Token verified successfully","path":"/search-customer/9586","service":"user-service","timestamp":"2025-02-25T13:36:24.692Z","uid":"3"}
